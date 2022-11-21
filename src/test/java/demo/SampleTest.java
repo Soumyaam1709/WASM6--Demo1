@@ -10,6 +10,9 @@ public class SampleTest {
 		
 		System.out.println("This is Maven project workspace user 1");
 		
+		System.out.println("Hi this is user 2 eclipse workspace 2");
+		
+		
 		
 		
 	}
