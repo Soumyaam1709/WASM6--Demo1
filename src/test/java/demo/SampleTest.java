@@ -7,6 +7,11 @@ public class SampleTest {
 	public void test() 
 	{
 		System.out.println("Hi this is sample test");
+		
+		System.out.println("This is Maven project workspace user 1");
+		
+		
+		
 	}
 
 }
